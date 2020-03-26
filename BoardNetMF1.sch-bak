@@ -1926,7 +1926,7 @@ Text Notes 5200 7450 0    50   ~ 0
 Text Notes 5250 7400 0    50   ~ 0
 Vcc/Bat In
 $Comp
-L BoardNetMF1-rescue:LM1117MPX_3.3-Lib_MAC_Sch CI2
+L Lib_MAC_Sch:LM1117MPX_3.3 CI2
 U 1 1 5E03F013
 P 2250 7100
 F 0 "CI2" H 2250 7394 40  0000 C CNN
@@ -1937,7 +1937,7 @@ F 3 "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF" H 2250 7333 60  00
 	1    0    0    -1  
 $EndComp
 $Comp
-L BoardNetMF1-rescue:ESP8266-12-Lib_MAC_Sch MOD1
+L Lib_MAC_Sch:ESP8266-12 MOD1
 U 1 1 5E03FD62
 P 1950 1550
 F 0 "MOD1" H 2225 2271 60  0000 C CNN
